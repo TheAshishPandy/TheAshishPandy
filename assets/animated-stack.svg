@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#020617"/><stop offset="0.5" stop-color="#172554"/><stop offset="1" stop-color="#312e81"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="180" rx="28" fill="url(#bg)" stroke="#334155"/>
+  <text x="600" y="30" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="16" font-weight="700">⚡ ANIMATED ENGINEERING STACK</text>
+  <g font-family="Arial, sans-serif" font-weight="700" font-size="14" filter="url(#glow)">
+    <g>
+      <g transform="translate(0,0)"><circle cx="70" cy="90" r="25" fill="#512bd4"/><text x="70" y="95" text-anchor="middle" fill="white">C#</text></g>
+      <g transform="translate(150,0)"><circle cx="70" cy="90" r="25" fill="#3776ab"/><text x="70" y="95" text-anchor="middle" fill="white">Py</text></g>
+      <g transform="translate(300,0)"><circle cx="70" cy="90" r="25" fill="#3178c6"/><text x="70" y="95" text-anchor="middle" fill="white">TS</text></g>
+      <g transform="translate(450,0)"><circle cx="70" cy="90" r="25" fill="#61dafb"/><text x="70" y="95" text-anchor="middle" fill="#0f172a">React</text></g>
+      <g transform="translate(600,0)"><circle cx="70" cy="90" r="25" fill="#68a063"/><text x="70" y="95" text-anchor="middle" fill="white">Node</text></g>
+      <g transform="translate(750,0)"><circle cx="70" cy="90" r="25" fill="#2496ed"/><text x="70" y="95" text-anchor="middle" fill="white">Docker</text></g>
+      <g transform="translate(900,0)"><circle cx="70" cy="90" r="25" fill="#ff9900"/><text x="70" y="95" text-anchor="middle" fill="#111827">AWS</text></g>
+      <g transform="translate(1050,0)"><circle cx="70" cy="90" r="25" fill="#0078d4"/><text x="70" y="95" text-anchor="middle" fill="white">Azure</text></g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-120 0" dur="8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g font-family="monospace" font-size="12" fill="#a5b4fc">
+    <text x="600" y="145" text-anchor="middle">RAG • Multi-Agent • MCP • Microservices • Kafka • Redis • MongoDB • PostgreSQL</text>
+  </g>
+</svg>
