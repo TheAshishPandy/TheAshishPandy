@@ -4,29 +4,16 @@
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ASHISH%20PANDEY&fontSize=52&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Cloud%20%26%20AI%20Builder&descAlignY=58&animation=twinkling&fontColor=ffffff&color=0:111827,45:312e81,100:06b6d4"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ASHISH%20PANDEY&fontSize=52&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Cloud%20%26%20AI%20Builder&descAlignY=58&animation=twinkling&fontColor=ffffff&color=0:111827,45:312e81,100:06b6d4" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=820&lines=Designing+scalable+software+systems;Building+AI-powered+developer+experiences;Cloud-native+%7C+Distributed+systems+%7C+RAG;Turning+complex+business+problems+into+clean+products" alt="Typing animation" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=820&lines=Designing+scalable+software+systems;Building+AI-powered+developer+experiences;Cloud-native+%7C+Distributed+systems+%7C+RAG;Turning+complex+business+problems+into+clean+products" alt="Typing animation" /></a>
 
 <br/>
 
-<a href="https://github.com/TheAshishPandy">
-  <img src="https://img.shields.io/badge/GitHub-TheAshishPandy-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://instagram.com/theashishpandy">
-  <img src="https://img.shields.io/badge/Instagram-@theashishpandy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://mastodon.social/@theashishPandey">
-  <img src="https://img.shields.io/badge/Mastodon-@theashishPandey-563ACC?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
-</a>
-<a href="mailto:theashishpandy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/TheAshishPandy"><img src="https://img.shields.io/badge/GitHub-TheAshishPandy-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://instagram.com/theashishpandy"><img src="https://img.shields.io/badge/Instagram-@theashishpandy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://mastodon.social/@theashishPandey"><img src="https://img.shields.io/badge/Mastodon-@theashishPandey-563ACC?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
+<a href="mailto:theashishpandy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -41,13 +28,13 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  Ashish Pandey                                                                │
+│  Ashish Pandey                                                               │
 │                                                                              │
-│  • Full-stack engineer focused on scalable enterprise applications         │
-│  • Building cloud-native systems, APIs, distributed workflows and AI tools │
-│  • Strong across .NET, Angular, Node.js, Python, databases & messaging     │
-│  • Exploring RAG, multi-agent systems, developer automation & AI platforms │
-│  • I enjoy turning messy requirements into maintainable architecture       │
+│  Full-stack engineer focused on scalable enterprise applications           │
+│  Building cloud-native systems, APIs, distributed workflows and AI tools   │
+│  Strong across .NET, Angular, Node.js, Python, databases & messaging       │
+│  Exploring RAG, multi-agent systems, developer automation & AI platforms   │
+│  Turning messy requirements into maintainable architecture                 │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -84,46 +71,35 @@
 
 ---
 
-## 🚀 What I Like Building
+## 🚀 Featured Work
 
 <div align="center">
 
-<a href="https://github.com/TheAshishPandy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAshishPandy&repo=TheAshishPandy&theme=tokyonight&hide_border=true" alt="Profile repository"/>
-</a>
+<a href="https://github.com/TheAshishPandy/MultiAgent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAshishPandy&repo=MultiAgent&theme=tokyonight&hide_border=true" alt="MultiAgent"/></a>
+<a href="https://github.com/TheAshishPandy/MCPServer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAshishPandy&repo=MCPServer&theme=tokyonight&hide_border=true" alt="MCPServer"/></a>
+
+<br/>
+
+<a href="https://github.com/TheAshishPandy/SmartHireAgent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAshishPandy&repo=SmartHireAgent&theme=tokyonight&hide_border=true" alt="SmartHireAgent"/></a>
+<a href="https://github.com/TheAshishPandy/chat-ai-ui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAshishPandy&repo=chat-ai-ui&theme=tokyonight&hide_border=true" alt="chat-ai-ui"/></a>
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+> **Building at the intersection of enterprise software, AI agents and developer experience.**
 
-### 🤖 AI-native Applications
-I’m especially interested in systems where AI is part of the product architecture—not just a chat box.
-
-**Patterns I like**
+### 🤖 AI-native Systems
 - RAG + hybrid retrieval
 - Semantic + lexical search
 - Multi-agent orchestration
 - Tool-using AI workflows
 - Context-aware enterprise assistants
 
-</td>
-<td width="50%">
-
 ### 🏢 Enterprise Platforms
-I enjoy designing software that has to survive real business complexity.
-
-**Patterns I like**
 - Multi-tenant systems
 - Role-based access
 - Event-driven architecture
 - API gateways + service boundaries
 - Reliable integrations + observability
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -155,9 +131,7 @@ I enjoy designing software that has to survive real business complexity.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=TheAshishPandy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" width="100%"/>
-
 </div>
 
 ---
@@ -165,6 +139,8 @@ I enjoy designing software that has to survive real business complexity.
 ## 📡 Developer Radar
 
 <div align="center">
+
+<img src="./assets/developer-radar.svg" width="100%" alt="Developer Radar — automatically refreshed by GitHub Actions"/>
 
 ```text
 NOW BUILDING     →  AI + RAG + Multi-Agent Systems
@@ -181,19 +157,14 @@ INTERESTED IN    →  Distributed systems • AI infrastructure • DX
 
 <div align="center">
 
-<a href="https://instagram.com/theashishpandy">Instagram</a>
-&nbsp; • &nbsp;
-<a href="https://mastodon.social/@theashishPandey">Mastodon</a>
-&nbsp; • &nbsp;
-<a href="mailto:theashishpandy@gmail.com">Email</a>
-&nbsp; • &nbsp;
+<a href="https://instagram.com/theashishpandy">Instagram</a> &nbsp; • &nbsp;
+<a href="https://mastodon.social/@theashishPandey">Mastodon</a> &nbsp; • &nbsp;
+<a href="mailto:theashishpandy@gmail.com">Email</a> &nbsp; • &nbsp;
 <a href="https://github.com/TheAshishPandy">GitHub</a>
 
 <br/><br/>
 
-<a href="https://buymeacoffee.com/theashishpandy">
-<img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-F6C344?style=for-the-badge&logo=buymeacoffee&logoColor=111827" alt="Buy me a coffee"/>
-</a>
+<a href="https://buymeacoffee.com/theashishpandy"><img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-F6C344?style=for-the-badge&logo=buymeacoffee&logoColor=111827" alt="Buy me a coffee"/></a>
 
 </div>
 
@@ -206,11 +177,3 @@ INTERESTED IN    →  Distributed systems • AI infrastructure • DX
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:06b6d4,50:312e81,100:111827" width="100%"/>
 
 </div>
-
-<!--
-Design notes:
-- Keep critical profile information readable even if external dynamic SVG services are unavailable.
-- Prefer one strong animated hero + lightweight dynamic sections.
-- For more advanced automation, this README can later be paired with a GitHub Action that
-  generates a daily activity/metrics SVG and commits it into an /assets folder.
--->
