@@ -1,22 +1,216 @@
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         ASHISH PANDEY • PROFILE                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theashishpandy) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@theashishPandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theashishpandy@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theashishpandy&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=theashishpandy&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theashishpandy&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ASHISH%20PANDEY&fontSize=52&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Cloud%20%26%20AI%20Builder&descAlignY=58&animation=twinkling&fontColor=ffffff&color=0:111827,45:312e81,100:06b6d4"
+  width="100%"
+/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theashishpandy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=820&lines=Designing+scalable+software+systems;Building+AI-powered+developer+experiences;Cloud-native+%7C+Distributed+systems+%7C+RAG;Turning+complex+business+problems+into+clean+products" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://github.com/TheAshishPandy">
+  <img src="https://img.shields.io/badge/GitHub-TheAshishPandy-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/theashishpandy">
+  <img src="https://img.shields.io/badge/Instagram-@theashishpandy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://mastodon.social/@theashishPandey">
+  <img src="https://img.shields.io/badge/Mastodon-@theashishPandey-563ACC?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
+</a>
+<a href="mailto:theashishpandy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=theashishpandy&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/TheAshishPandy?label=FOLLOWERS&style=for-the-badge&color=6366f1" alt="Followers"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=theashishpandy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/theashishpandy) 
+## ⚡ About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  Ashish Pandey                                                                │
+│                                                                              │
+│  • Full-stack engineer focused on scalable enterprise applications         │
+│  • Building cloud-native systems, APIs, distributed workflows and AI tools │
+│  • Strong across .NET, Angular, Node.js, Python, databases & messaging     │
+│  • Exploring RAG, multi-agent systems, developer automation & AI platforms │
+│  • I enjoy turning messy requirements into maintainable architecture       │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+### 🧠 Engineering Focus
+
+| 🏗️ Architecture | 🤖 AI Engineering | ☁️ Cloud & DevOps | ⚡ Product Engineering |
+|:---:|:---:|:---:|:---:|
+| Microservices | RAG | AWS | Angular |
+| Event-driven | Multi-Agent Systems | Azure | React / Next.js |
+| GraphQL | Semantic Search | Jenkins | Node.js / NestJS |
+| Distributed APIs | AI Automation | Nginx | .NET / Blazor |
+| High-scale data | LLM Integrations | Kafka | TypeScript |
+
+</div>
+
+---
+
+## 🧩 My Core Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cs,python,js,ts,html,css" alt="Languages"/>
+
+### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,nestjs,express,dotnet,blazor,graphql" alt="Frameworks"/>
+
+### Cloud / Platform / Data
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase,kafka,jenkins,nginx,mongodb,mysql,postgres,redis,sqlite,oracle" alt="Cloud and data stack"/>
+
+</div>
+
+---
+
+## 🚀 What I Like Building
+
+<div align="center">
+
+<a href="https://github.com/TheAshishPandy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAshishPandy&repo=TheAshishPandy&theme=tokyonight&hide_border=true" alt="Profile repository"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI-native Applications
+I’m especially interested in systems where AI is part of the product architecture—not just a chat box.
+
+**Patterns I like**
+- RAG + hybrid retrieval
+- Semantic + lexical search
+- Multi-agent orchestration
+- Tool-using AI workflows
+- Context-aware enterprise assistants
+
+</td>
+<td width="50%">
+
+### 🏢 Enterprise Platforms
+I enjoy designing software that has to survive real business complexity.
+
+**Patterns I like**
+- Multi-tenant systems
+- Role-based access
+- Event-driven architecture
+- API gateways + service boundaries
+- Reliable integrations + observability
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TheAshishPandy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAshishPandy&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=TheAshishPandy&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Flow
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheAshishPandy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" width="100%"/>
+
+</div>
+
+---
+
+## 📡 Developer Radar
+
+<div align="center">
+
+```text
+NOW BUILDING     →  AI + RAG + Multi-Agent Systems
+ARCHITECTING     →  Cloud-native enterprise platforms
+EXPERIMENTING    →  Developer automation & code agents
+INTERESTED IN    →  Distributed systems • AI infrastructure • DX
+```
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://instagram.com/theashishpandy">Instagram</a>
+&nbsp; • &nbsp;
+<a href="https://mastodon.social/@theashishPandey">Mastodon</a>
+&nbsp; • &nbsp;
+<a href="mailto:theashishpandy@gmail.com">Email</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/TheAshishPandy">GitHub</a>
+
+<br/><br/>
+
+<a href="https://buymeacoffee.com/theashishpandy">
+<img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-F6C344?style=for-the-badge&logo=buymeacoffee&logoColor=111827" alt="Buy me a coffee"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 Build. Automate. Scale. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:06b6d4,50:312e81,100:111827" width="100%"/>
+
+</div>
+
+<!--
+Design notes:
+- Keep critical profile information readable even if external dynamic SVG services are unavailable.
+- Prefer one strong animated hero + lightweight dynamic sections.
+- For more advanced automation, this README can later be paired with a GitHub Action that
+  generates a daily activity/metrics SVG and commits it into an /assets folder.
+-->
